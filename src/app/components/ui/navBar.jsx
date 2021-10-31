@@ -13,7 +13,7 @@ const NavBar = () => {
                     <NavLink
                         className="nav-link "
                         aria-current="page"
-                        to="/users"
+                        to="/users/67rdca3eeb7f6fgeed471816"
                     >
                         Users
                     </NavLink>
